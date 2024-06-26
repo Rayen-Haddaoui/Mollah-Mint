@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1007509898520-3aechpkk2k3r590prbndqmdfe40rdqb9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1007509898520-3aechpkk2k3r590prbndqmdfe40rdqb9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1007509898520-7q4i8g6ng5mg50p2lsns03jthriqe483.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAx_kkGWftL3Ovo_GBxFKN1QED0JO0VVlU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1007509898520</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.moollahmint</string>
+	<key>PROJECT_ID</key>
+	<string>moollahmint</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moollahmint.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1007509898520:ios:4dbc12291c071e90dd8a6d</string>
+</dict>
+</plist>
